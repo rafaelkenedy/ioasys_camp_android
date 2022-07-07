@@ -36,9 +36,15 @@ fun main() {
     //Scope function
     nome?.let { println(it) }
 
-    nome?.let {nomeNaoNulo ->
+    nome?.let { nomeNaoNulo ->
         println(nomeNaoNulo)
     }
+
+    //Elvis operator
+    nome = null
+    //Caso a expressão da esquerda resulte em nulo utilizamos o valor da direita
+    var tamanho: Int = nome?.length ?: 0
+    println(tamanho)
 
     //Outras scope functions e seus identificadores implícitos
     // let it
