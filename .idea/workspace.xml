@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4a7b7cb-9bf9-462d-aa7d-3489a443a047" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ControleDeFluxo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EstruturasDeDados.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullSafety.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TiposBasicos.kt" afterDir="false" />
+    <list default="true" id="d4a7b7cb-9bf9-462d-aa7d-3489a443a047" name="Changes" comment="Módulo 1 - Linguagem Kotlin | Trilha de Aprendizado Android">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/EstruturasDeDados.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/EstruturasDeDados.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +95,14 @@
       <option name="presentableId" value="Default" />
       <updated>1657169615125</updated>
     </task>
+    <task id="LOCAL-00001" summary="Módulo 1 - Linguagem Kotlin | Trilha de Aprendizado Android">
+      <created>1657173729268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657173729268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Módulo 1 - Linguagem Kotlin | Trilha de Aprendizado Android" />
+    <option name="LAST_COMMIT_MESSAGE" value="Módulo 1 - Linguagem Kotlin | Trilha de Aprendizado Android" />
   </component>
 </project>

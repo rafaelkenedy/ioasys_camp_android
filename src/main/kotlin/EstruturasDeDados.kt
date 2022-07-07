@@ -16,6 +16,8 @@ fun main(){
     val emptyMutableList = mutableListOf<Int>()
     emptyMutableList.add(42)
 
+
+    //Maps
     val sacolao = mapOf(
         "Banana" to 4.99,
         "Cenoura" to 2.99,
